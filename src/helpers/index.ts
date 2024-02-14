@@ -1,0 +1,2 @@
+export { formatearFecha } from "./formatearFecha";
+
